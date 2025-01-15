@@ -1,10 +1,17 @@
-# E-commerce Reviews Scraping
+# <span style="color:#4CAF50;">E-commerce Reviews Scraping</span>
 
 This Python project scrapes customer reviews from an e-commerce website (or a local HTML file) and saves the extracted data into both **CSV** and **Excel** formats. It uses libraries like **BeautifulSoup**, **Pandas**, **Requests**, and **openpyxl** to achieve this.
 
-## Requirements
+## <span style="color:#FF6347;">Features</span>
+- Scrapes reviews, including customer ratings, comments, and review dates.
+- Saves the scraped data in both **CSV** and **Excel** formats.
+- Supports both scraping from live websites and parsing local HTML files.
+- Option to scrape multiple pages of reviews.
 
-Before using this project, ensure that **Python** is installed on your machine, and the necessary libraries are set up:
+## <span style="color:#1E90FF;">Requirements</span>
+
+Before using this project, ensure that **Python** is installed on your machine, and the necessary libraries are set
+
 
 1. **Python Installation**:
    - Make sure you have Python installed on your system. You can download it from [python.org](https://www.python.org/downloads/).
