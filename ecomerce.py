@@ -40,7 +40,7 @@ def scrape_reviews(target):
 
 
 # Target file or URL (Local file or URL)
-TARGET_URL = "https://www.sitejabber.com/reviews/jumia.com"  # Replace with the actual path to your file or URL
+TARGET_URL = "file2.html"  # Replace with the actual path to your file or URL
 
 # Scrape the reviews
 reviews_data = scrape_reviews(TARGET_URL)
