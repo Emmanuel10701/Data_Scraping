@@ -1,7 +1,6 @@
 from bs4 import BeautifulSoup
 import pandas as pd
 import os
-import openpyxl
 import requests
 
 # Headers for web scraping (useful only for online URLs)
